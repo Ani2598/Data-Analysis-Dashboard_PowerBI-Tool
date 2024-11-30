@@ -10,7 +10,7 @@
 - How does the performance vary (standard deviation) among students within each grade and subject?
 - What is the distribution of schools and students across CPS and STM types?
 - How many students attempted the assessments, and what is their grade-wise performance trend?
-
+ 
 # Process
 
 - Data Aggregation:
@@ -23,9 +23,9 @@
 - Standardize performance metrics to percentages for uniform comparison.
 - Visualization:
 
-- Use bar charts to represent average scores across grades and subjects.
-- Plot standard deviations to analyze variability within subjects.
+- Use Stacked Column and Line charts to represent average and Standard Deviation percentage scores across grades and subjects.
 - Include slicers for school type (CPS/STM) and attempts for easy filtering.
+- Include Drill Through for schools to see performance each school wise.
 - Dashboard Development:
 
 - Create summary KPIs for total students, school types, and attempts.
@@ -39,10 +39,7 @@
 
 - Standard deviations indicate higher variability in Science scores, suggesting a need to standardize teaching methods or improve support resources.
 - English performance variability is lower, indicating more consistency across students.
-- School Type Analysis:
-
-- CPS schools have more student participation (as highlighted by the 17.9K BL attempts), indicating higher engagement.
-- STM schools may need strategies to increase participation and performance.
+  
 - Key Challenges:
 
 - Lower averages in Science across all grades may signal a gap in understanding or delivery of the subject.
