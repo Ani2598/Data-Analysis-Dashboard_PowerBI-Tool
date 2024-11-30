@@ -13,3 +13,21 @@
 
 # Process
 
+- Data Aggregation:
+
+- Collect grade-wise and subject-wise assessment scores for English, Math, and Science.
+- Group data by grades and school types (CPS/STM).
+- Data Cleaning:
+
+- Remove invalid or incomplete entries (e.g., unattempted assessments).
+- Standardize performance metrics to percentages for uniform comparison.
+- Visualization:
+
+- Use bar charts to represent average scores across grades and subjects.
+- Plot standard deviations to analyze variability within subjects.
+- Include slicers for school type (CPS/STM) and attempts for easy filtering.
+- Dashboard Development:
+
+- Create summary KPIs for total students, school types, and attempts.
+- Display detailed grade-wise analysis for further insights.
+
