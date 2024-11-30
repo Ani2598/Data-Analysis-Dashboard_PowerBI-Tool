@@ -31,19 +31,19 @@
 - Create summary KPIs for total students, school types, and attempts.
 - Display detailed grade-wise analysis for further insights.
 # Insights
--Average Performance Trends:
+- Average Performance Trends:
 
--Performance varies significantly across subjects, with Math generally showing higher averages compared to English and Science.
--Grade 9 and Grade 10 students display better performance in English and Math compared to lower grades.
--Variability in Scores:
+- Performance varies significantly across subjects, with Math generally showing higher averages compared to English and Science.
+- Grade 9 and Grade 10 students display better performance in English and Math compared to lower grades.
+- Variability in Scores:
 
--Standard deviations indicate higher variability in Science scores, suggesting a need to standardize teaching methods or improve support resources.
--English performance variability is lower, indicating more consistency across students.
--School Type Analysis:
+- Standard deviations indicate higher variability in Science scores, suggesting a need to standardize teaching methods or improve support resources.
+- English performance variability is lower, indicating more consistency across students.
+- School Type Analysis:
 
--CPS schools have more student participation (as highlighted by the 17.9K BL attempts), indicating higher engagement.
--STM schools may need strategies to increase participation and performance.
--Key Challenges:
+- CPS schools have more student participation (as highlighted by the 17.9K BL attempts), indicating higher engagement.
+- STM schools may need strategies to increase participation and performance.
+- Key Challenges:
 
--Lower averages in Science across all grades may signal a gap in understanding or delivery of the subject.
--Grades 5 and 6 show significantly lower performance overall, indicating the need for targeted interventions.
+- Lower averages in Science across all grades may signal a gap in understanding or delivery of the subject.
+- Grades 5 and 6 show significantly lower performance overall, indicating the need for targeted interventions.
