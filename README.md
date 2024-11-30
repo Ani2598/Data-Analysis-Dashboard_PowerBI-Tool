@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard_PowerBI-Tool
-I created, analyzing student performance from a dataset of over 30,000 records! This project highlights performance trends across two school types (CPS and STM) and classes from 5th to 10th grade.
+# Performance Analysis of DCR Assessments
+ The primary objective of these dashboards is to analyze and visualize the performance of students across different grades and subjects (English, Math, and Science) in the DCR (Digital Classroom) assessments. The analysis aims to:
+1)Provide insights into average performance across grades and subjects.
+2)Highlight variability (using standard deviation) in student performance.
+3)Bifurcate performance data based on school types (CPS and STM) for comparative analysis.
